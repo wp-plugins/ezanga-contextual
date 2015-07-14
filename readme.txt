@@ -97,6 +97,10 @@ exposure for advertisers through relevant ad placement.
 
 2) click the "delete" button on the eZanga Contextual plugin.
 
+== Screenshots ==
+
+1. screenshot-1.png. This screenshot is taken from the admin section of the plugin.
+
 
 == Changelog ==
 
