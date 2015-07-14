@@ -1,4 +1,4 @@
-=== eZanga: Traffic Advisors ===
+=== eZanga: Contextual ===
 Contributors: eZanga Geek Pad
 Tags: eZanga, eZanga.com, eZanga.com inc., Traffic Advisors, Advertising, Publishing, Advertiser, Publisher, Contextual, Contextual advertisement
 Requires at least: 4.1
