@@ -1,9 +1,9 @@
 === eZanga: Contextual ===
 Contributors: eZangaTed
 Tags: eZanga, eZanga.com, eZanga.com inc., Traffic Advisors, Advertising, Publishing, Advertiser, Publisher, Contextual, Contextual advertisement
-Requires at least: 4.1
-Tested up to: 4.1
-Stable tag: 4.1
+Requires at least: 4.3
+Tested up to: 4.3
+Stable tag: 4.3
 
 
 == Description ==
