@@ -15,11 +15,11 @@ If you have a WordPress site, you have a source of income. Are you taking advant
 == eZanga's Contextual Plugin ==
 
 
-Install the plugin and set up an account with eZanga's publisher platform (Traffic Advisors®) to quickly, and easily, generate related posts for your site. Advertisements' are based on the content of the title and/or the content of the posts which makes them relevant to your readers. With relevant content, you'll reduce your bounce rate and retain visitors longer. Get started today with our easy to use, customizable widget.
+Install the plugin and set up an account with eZanga's publisher platform (Traffic Advisors&reg;) to quickly, and easily, generate related posts for your site. Advertisements' are based on the content of the title and/or the content of the posts which makes them relevant to your readers. With relevant content, you'll reduce your bounce rate and retain visitors longer. Get started today with our easy to use, customizable widget.
 
 == What's eZanga.com? ==
 
-eZanga's advanced fraud protection platform detects users' behavior patterns and determines in real-time whether or not the traffic source is a legitimate user or an automated machine. To maintain traffic quality, fraudulent clicks are eliminated before the client's budget is spent on them. By analyzing billions of searches per month, Traffic Advisors® is able to make judgments and respond quickly. This ensures maximum exposure for advertisers through relevant ad placement.
+eZanga's advanced fraud protection platform detects users' behavior patterns and determines in real-time whether or not the traffic source is a legitimate user or an automated machine. To maintain traffic quality, fraudulent clicks are eliminated before the client's budget is spent on them. By analyzing billions of searches per month, Traffic Advisors&reg; is able to make judgments and respond quickly. This ensures maximum exposure for advertisers through relevant ad placement.
 
 	- http://www.ezanga.com/
 	- 888-439-2642 
@@ -27,9 +27,9 @@ eZanga's advanced fraud protection platform detects users' behavior patterns and
 
 == What is Traffic Advisors? ==
 
-eZanga.com’s advanced fraud protection platform detects users’ behavior patterns and determines in real-time 
+eZanga.com's advanced fraud protection platform detects users' behavior patterns and determines in real-time 
 whether or not the traffic source is a legitimate user or an automated machine. To maintain traffic quality, 
-fraudulent clicks are eliminated before the client’s budget is spent on them. By analyzing billions of 
+fraudulent clicks are eliminated before the client's budget is spent on them. By analyzing billions of 
 searches per month, Traffic Advisors is able to make judgments and respond quickly. This ensures maximum 
 exposure for advertisers through relevant ad placement.
 
@@ -55,7 +55,7 @@ exposure for advertisers through relevant ad placement.
 8) Click the dropdown arrow on the "eZanga Contextual" widget to display all customizable features.
 
 9) You will need a Token to complete this form, if you don't alreay know what your token is, 
-   call your eZanga sales rep at 888-439-2642 or log in to Traffic Advisors® to get it.
+   call your eZanga sales rep at 888-439-2642 or log in to Traffic Advisors&reg; to get it.
 
 10) Fill out the form and hit 'Save.'
 
@@ -70,8 +70,8 @@ exposure for advertisers through relevant ad placement.
 2) Shortly after completing the form, you'll receive a confirmation email with directions to complete the 
    sign up process.
 
-3) After filling out your contact information, you’ll be taken to a source request form. Enter your WordPress
-   blog’s information in the ‘Source Information’ section and complete the rest of the form.
+3) After filling out your contact information, you'll be taken to a source request form. Enter your WordPress
+   blog's information in the 'Source Information' section and complete the rest of the form.
 
 4) Wait for your account to be approved by an account manager. It usually takes one to two business days.
 
